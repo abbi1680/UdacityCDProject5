@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/gh/magmax007/UdacityCDProject5.svg?style=svg)](https://circleci.com/gh/magmax007/UdacityCDProject5)
 
-## Project Overview
+## Project goal
 ----------------------
 
 This project goal is to help operationalizing a Machine Leaning Microservice API. We choose a pre-trained `sklearn` model that has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on.
